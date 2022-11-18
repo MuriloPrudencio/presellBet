@@ -63,14 +63,14 @@ div.cards-container {
 div.cards {
     width: 70%;
     height: 8em;
-    background-color: #9131d3;
+    background-color: #f5eddf;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0em 1em;
     opacity: .7;
-    box-shadow: 3px 3px 10px #00d20d;
+    box-shadow: 5px 5px 20px #00d20d;
 }
 
 div.cards div.card-img figure {
