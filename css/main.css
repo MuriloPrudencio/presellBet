@@ -126,6 +126,40 @@ div.card-btn a:hover {
     font-size: 18px;
 }
 
+div.card-btn-pego a {
+    color: #94cf1c;
+    padding: .5em 1.5em;
+    background-color: #1f4a8d;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-pego a:hover {
+    color: #1f4a8d;
+    padding: .5em 1.5em;
+    background-color: #94cf1c;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-h2 a {
+    color: #fff;
+    padding: .5em 1.5em;
+    background-color: #166fef;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-h2 a:hover {
+    color: #166fef;
+    padding: .5em 1.5em;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
 div.text-container {
     color: #f5eddf;
     width: 70%;
