@@ -31,13 +31,13 @@ header div.header-logo figure a img {
 }
 
 
-.background > div {
-    /* Images default to Center Center. Maybe try 'center top'? */
+section.background > div {
+
     background-position: center center;
     display: block;
     width: 100%;
     height: 580px;
-    /* height: 100vh; *//* If you want fullscreen */
+
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -47,8 +47,25 @@ header div.header-logo figure a img {
     -o-transition: transform .4s;
     -webkit-transition: transform .4s;
     transition: transform .4s;
-    opacity: .8;
 
+}
+
+section.background div.content-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 40%;
+}
+
+section.background div.content-text p {
+    font-size: 22px;
+    color:#ffffff ;
+}
+
+section.background div.content-text h3 {
+    font-size: 35px;
+    color: #f5eddf;
 }
 
 div.cards-container {
@@ -85,7 +102,7 @@ div.cards div.card-img figure img{
 }
 
 div.card-content figure {
-    width: 250px;
+    width: 220px;
 }
 
 div.card-content figure img {
@@ -96,7 +113,17 @@ div.card-btn a {
     color: #00d20d;
     padding: .5em 1.5em;
     background-color: #9131d3;
+    font-weight: bold;
     border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn a:hover {
+    color: #9131d3;
+    padding: .5em 1.5em;
+    background-color: #00d20d;
+    border-radius: 5px;
+    font-size: 18px;
 }
 
 div.text-container {
