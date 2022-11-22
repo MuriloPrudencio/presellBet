@@ -171,6 +171,108 @@ div.card-btn-h2 a:hover {
     font-size: 18px;
 }
 
+div.card-btn-estrelas a {
+    color: #051016;
+    padding: .5em 1.5em;
+    background-color: #01b43e;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-estrelas a:hover {
+    color: #01b43e;
+    padding: .5em 1.5em;
+    background-color: #072a3e;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-oitavo a {
+    color: #1a1f39;
+    padding: .5em 1.5em;
+    background-color: #f7a83f;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-oitavo a:hover {
+    color: #f7a83f;
+    padding: .5em 1.5em;
+    background-color: #293053;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-sete a {
+    color: #18201d;
+    padding: .5em 1.5em;
+    background-color: #289359;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.card-btn-sete a:hover {
+    color: #289359;
+    padding: .5em 1.5em;
+    background-color: #2b3833;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-meuGreen a {
+    color: #232323;
+    padding: .5em 1.5em;
+    background-color:  #66aa17;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.card-btn-meuGreen a:hover {
+    color: #66aa17;
+    padding: .5em 1.5em;
+    background-color: #343434;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-boomBets a {
+    color: #0b1d33;
+    padding: .5em 1.5em;
+    background-color:  #f9e638;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.card-btn-boomBets a:hover {
+    color: #f9e638;
+    padding: .5em 1.5em;
+    background-color: #1a3556;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+div.card-btn-maxima a {
+    color: #072934;
+    padding: .5em 1.5em;
+    background-color:  #00f894;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.card-btn-maxima a:hover {
+    color: #00f894;
+    padding: .5em 1.5em;
+    background-color: #0c4051;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
 div.text-container {
     color: #f5eddf;
     width: 70%;
