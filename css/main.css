@@ -79,7 +79,7 @@ section.background div.content-text h3 {
     color: #f5eddf;
 }
 
-div.cards-container {
+article.cards-container {
     position: relative;
     top: -3em;
     display: flex;
@@ -88,7 +88,7 @@ div.cards-container {
     margin-bottom: 5em;
 }
 
-div.cards {
+section.cards {
     width: 70%;
     height: 10em;
     background-color: #f5eddf;
@@ -102,13 +102,13 @@ div.cards {
     position: relative;
 }
 
-div.cards:hover{top:-4px;box-shadow:0 4px 3px #999}
+section.cards:hover{top:-4px;box-shadow:0 4px 3px #999}
 
-div.cards div.card-img figure {
+section.cards div.card-img figure {
     width: 150px;
 }
 
-div.cards div.card-img figure img{
+section.cards div.card-img figure img{
     width: 100%;
 }
 
