@@ -64,8 +64,8 @@ section.background div.content-text {
     top: 30%;
     background-color: #333333;
     padding: 1em;
-    opacity: .7;
-    width: 85%;
+    
+    width: 50%;
     margin: 0 auto;
     border-radius: 5px;
 }
