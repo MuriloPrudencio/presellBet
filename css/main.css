@@ -294,7 +294,10 @@ div.text-container div.text-content p {
 }
 
 @media only screen and (max-width: 680px) {
-    div.cards div.card-img figure {
+    section.background div.content-text {
+        width: 90%;
+    }
+    section.cards div.card-img figure {
         width: 120px;
     }
 }
@@ -305,7 +308,7 @@ div.text-container div.text-content p {
         padding: .5em 1em;
     }
 
-    div.cards {
+    section.cards {
         width: 95%;
     }
 
@@ -320,7 +323,7 @@ div.text-container div.text-content p {
         padding: .5em .5em;
     }
 
-    div.cards {
+    section.cards {
         width: 98%;
     }
 
