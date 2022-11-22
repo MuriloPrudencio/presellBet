@@ -273,6 +273,23 @@ div.card-btn-maxima a:hover {
     font-size: 18px;
 }
 
+div.card-btn-union a {
+    color: #011230;
+    padding: .5em 1.5em;
+    background-color:  #e30613;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.card-btn-union a:hover {
+    color: #e30613;
+    padding: .5em 1.5em;
+    background-color: #01245f;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
 div.text-container {
     color: #f5eddf;
     width: 70%;
